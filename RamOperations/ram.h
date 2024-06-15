@@ -3,10 +3,6 @@
 //
 // Random access memory (RAM) for nuPython
 //
-// Prof. Joe Hummel
-// Northwestern University
-// CS 211
-//
 
 #pragma once
 

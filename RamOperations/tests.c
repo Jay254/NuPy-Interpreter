@@ -1,15 +1,5 @@
 /*tests.c*/
 
-//
-// << DESCRIPTION >>
-//
-// << YOUR NAME >>
-//
-// Initial template: Prof. Joe Hummel
-// Northwestern University
-// CS 211
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

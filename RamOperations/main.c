@@ -3,10 +3,6 @@
 //
 // Main program to run google tests. Do not modify this file.
 //
-// Prof. Joe Hummel
-// Northwestern University
-// CS 211, Fall 2023
-//
 
 #include <stdio.h>
 #include <stdlib.h>

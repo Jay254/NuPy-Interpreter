@@ -5,12 +5,7 @@
 //
 // << JAY KIPTOO YEGON >>
 // << NORTHWESTERN UNIVERSITY >>
-// << CS 211 WINTER QUARTER >>
-//
-// Template: Prof. Joe Hummel
-// Northwestern University
-// CS 211
-//
+// << CS 211 WINTER MAJOR>>
 
 #include <stdio.h>
 #include <stdlib.h>
